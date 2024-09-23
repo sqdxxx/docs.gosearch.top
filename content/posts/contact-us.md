@@ -1,5 +1,13 @@
 +++
-title = 'Contact Us'
+title = '技术支持'
 date = 2024-09-23T23:17:12+08:00
-draft = true
+draft = false
 +++
+
+## 联系我们
+
+欢迎使用“解压专家”，帮助你轻松工作，开心上班！
+
+如果在软件使用过程中有任何问题。欢迎联系我们。
+
+Email：xiaomantou2024@163.com
