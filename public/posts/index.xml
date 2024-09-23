@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>技术支持</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;联系我们&#34;&gt;联系我们&lt;/h2&gt;&#xA;&lt;p&gt;欢迎使用“解压专家”，帮助你轻松工作，开心上班！&lt;/p&gt;&#xA;&lt;p&gt;如果在软件使用过程中有任何问题。欢迎联系我们。&lt;/p&gt;&#xA;&lt;p&gt;Email：xiaomantou2024@163.com&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
