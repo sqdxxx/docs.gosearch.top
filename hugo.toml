@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gosearch.top/'
 languageCode = 'en-us'
-title = ''
+title = '趣发现'
 theme = 'ananke'
+
+
+[[params.ananke_socials]]
+name = "鲁ICP备2024118427号-1"
+url = "https://beian.miit.gov.cn"
