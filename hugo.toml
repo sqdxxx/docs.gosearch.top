@@ -1,4 +1,4 @@
-baseURL = 'https://gosearch.top/'
+baseURL = 'https://api.gosearch.top/help'
 languageCode = 'en-us'
 title = '趣发现'
 theme = 'ananke'
