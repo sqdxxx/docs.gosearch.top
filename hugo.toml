@@ -1,7 +1,7 @@
 baseURL = 'https://api.gosearch.top/help'
 languageCode = 'en-us'
 title = '趣发现'
-theme = 'ananke'
+theme = 'paper'
 
 
 [[params.ananke_socials]]
