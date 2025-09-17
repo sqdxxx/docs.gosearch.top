@@ -11,7 +11,7 @@
   style="--bg:#faf8f1"
   lang="en-us"
   dir="ltr"
-><head><script src="/help/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=help/livereload" data-no-instant defer></script>
+><head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta
@@ -30,10 +30,10 @@
     name="description"
     content="A personal blog"
   />
-  <meta name="author" content="趣发现" /><link rel="preload stylesheet" as="style" href="http://localhost:1313/help/main.min.css" />
+  <meta name="author" content="趣发现" /><link rel="preload stylesheet" as="style" href="https://api.gosearch.top/help/main.min.css" />
 
   
-  <link rel="preload" as="image" href="http://localhost:1313/help/theme.png" />
+  <link rel="preload" as="image" href="https://api.gosearch.top/help/theme.png" />
 
   
 
@@ -44,14 +44,29 @@
   
   <link
     rel="icon"
-    href="http://localhost:1313/help/favicon.ico"
+    href="https://api.gosearch.top/help/favicon.ico"
   />
   <link
     rel="apple-touch-icon"
-    href="http://localhost:1313/help/apple-touch-icon.png"
+    href="https://api.gosearch.top/help/apple-touch-icon.png"
   />
 
   <meta name="generator" content="Hugo 0.134.3">
+  <meta itemprop="name" content="Categories"><meta property="og:url" content="https://api.gosearch.top/help/categories/">
+  <meta property="og:site_name" content="趣发现">
+  <meta property="og:title" content="Categories">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="website">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Categories">
+<link
+    rel="alternate"
+    type="application/rss&#43;xml"
+    href="https://api.gosearch.top/help/categories/index.xml"
+    title="趣发现"
+  />
+  <link rel="canonical" href="https://api.gosearch.top/help/categories/" />
 </head>
 <body
     class="bg-(--bg) text-black antialiased duration-200 ease-out [-webkit-tap-highlight-color:transparent] dark:text-white"
@@ -61,7 +76,7 @@
   <div class="relative z-50 flex items-center ltr:mr-auto rtl:ml-auto">
     <a
       class="-translate-y-[1px] text-2xl font-medium"
-      href="http://localhost:1313/help/"
+      href="https://api.gosearch.top/help/"
       >趣发现</a
     >
     <div
@@ -94,6 +109,7 @@
     const metaTheme = document.querySelector('meta[name="theme-color"]');
     const lightBg = '#faf8f1'.replace(/"/g, '');
     const setDark = (isDark) => {
+      isDark = false
       metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
       localStorage.setItem('dark', isDark);
@@ -131,7 +147,7 @@
   class="mx-auto flex h-[4.5rem] max-w-(--w) items-center px-8 text-xs tracking-wider uppercase opacity-60"
 >
   <div class="mr-auto">&copy;2025
-    <a class="link" href="http://localhost:1313/help/">趣发现</a></div>
+    <a class="link" href="https://api.gosearch.top/help/">趣发现</a></div>
   <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
     >powered by hugo️️</a
   >️
